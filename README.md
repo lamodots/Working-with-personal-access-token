@@ -18,7 +18,7 @@
 # Cloning a repo with PAT
   ```bash
     git clone https://github.com/@<token>Digitallycamp/storedata.git
-``
+```
 
 # What happens when the token expires ?
 1.  Generate and configure your git to use new token
